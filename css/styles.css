@@ -1,0 +1,48 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background: #E7E7E7;
+}
+
+.navbar {
+	border-radius: 0;
+}
+
+.navbar-brand{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 24px;
+}
+
+.content{
+	width:70%;
+	margin:30px auto;
+	min-height: 30px;
+	padding: 30px;
+	padding-top: 10px;
+	border-radius: 3px;
+	border:1px solid #CCC;
+	background-color: #f6f6f6;
+}
+
+h1{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 28px;
+	margin-bottom: 16px;
+}
+
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	margin-bottom: 5px;	
+	margin-top: 10px;	
+	padding: 0;
+}
+
+.content li{
+	margin-bottom: 10px;
+}
+
+footer{
+	background: #cdcdcd;
+	width: 100%;
+	padding: 20px;
+}
